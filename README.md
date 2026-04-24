@@ -6,7 +6,7 @@ A clean, responsive login form built with HTML, CSS and JavaScript — ideal as 
 
 ## Demo
 
-![Login Form Screenshot](Screenshot 2024-10-15 235044.png)
+![Login Form Screenshot](https://raw.githubusercontent.com/BinaryVortex/Login-Form-117/main/Screenshot%202024-10-15%20235044.png)
 
 *(Open `index.html` in your browser for a working demo.)*
 
